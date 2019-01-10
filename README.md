@@ -23,7 +23,16 @@ For this analysis I downloaded the data files from [data.gov.in](https://data.go
 Use the completed file **Energy Sources.ipynb** to view the final python code.
 
 ### Results
+Here is what I discovered during the analysis.
+  - The power generation from Renewable sources has been on the rise. That is a positive sign for the environment. Hurray!!
+  - The major Renewable Sources in India for power generation are:
+    * Wind, Solar, Bio and Small Hydro Electic Projects
+  - We found the top 6 states generating power from renewable sources (Tamil Nadu, Andhra Pradesh, Rajasthan, Gujarat, Maharshtra and Karnataka)
+  - Andhra Pradesh, Tamil Nadu and Rajastha generates most units of power from Solar Energy
+  - Tamil Nadu, Gujarat and Maharashtra generates most units of power from Wind
+  
 You can read the results of the analysis in my medium blog [here](https://medium.com/@s.arun.raj/power-generation-from-renewable-sources-de39f4e5986b).
+
 
 #### Licensing
 Feel free to use the code here as you would like!
